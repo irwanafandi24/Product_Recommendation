@@ -45,4 +45,4 @@
 
 ##
 
-🎉🎉 Congrats... Now, this is your turn to start build your own Product Recommendation System. <b><i>Happy coding guys :)</i></b>
+🎉🎉 Congrats.. Now, this is your turn to start build your own Product Recommendation System. <b><i>Happy coding guys :)</i></b>
