@@ -1,0 +1,403 @@
+{
+"product": [
+	{
+		"product" : "B016KDZHCG",
+		"distance" : 21.0297
+	},
+	{
+		"product" : "B00M0V083Q",
+		"distance" : 21.7773
+	},
+	{
+		"product" : "B004WMJWII",
+		"distance" : 21.8689
+	},
+	{
+		"product" : "B016FD2DQY",
+		"distance" : 22.0057
+	},
+	{
+		"product" : "B00JZ2AURM",
+		"distance" : 22.1867
+	},
+	{
+		"product" : "B01FJPVMAC",
+		"distance" : 22.5666
+	},
+	{
+		"product" : "B00LNJSDWO",
+		"distance" : 22.5666
+	},
+	{
+		"product" : "B000C1Z2D2",
+		"distance" : 22.6108
+	},
+	{
+		"product" : "B00JH1SYZQ",
+		"distance" : 22.6329
+	},
+	{
+		"product" : "B016FD2GOI",
+		"distance" : 22.6771
+	},
+	{
+		"product" : "B00HNZKTRO",
+		"distance" : 22.6771
+	},
+	{
+		"product" : "B014AH60PW",
+		"distance" : 22.8747
+	},
+	{
+		"product" : "B00JR67T66",
+		"distance" : 22.8965
+	},
+	{
+		"product" : "B01BOM1Y52",
+		"distance" : 23.0272
+	},
+	{
+		"product" : "B0002EBI82",
+		"distance" : 23.0489
+	},
+	{
+		"product" : "B00JRUH6EM",
+		"distance" : 23.0489
+	},
+	{
+		"product" : "B000LZW5N4",
+		"distance" : 23.0705
+	},
+	{
+		"product" : "B00KWHEGJ2",
+		"distance" : 23.0922
+	},
+	{
+		"product" : "B00J9JOV9O",
+		"distance" : 23.1355
+	},
+	{
+		"product" : "B00ET86JSG",
+		"distance" : 23.1571
+	},
+	{
+		"product" : "B0059IE252",
+		"distance" : 23.1787
+	},
+	{
+		"product" : "B00ZVD9JOE",
+		"distance" : 23.2863
+	},
+	{
+		"product" : "B00276E3KS",
+		"distance" : 23.3934
+	},
+	{
+		"product" : "B00M0V3B1C",
+		"distance" : 23.4361
+	},
+	{
+		"product" : "B0015476RU",
+		"distance" : 23.4361
+	},
+	{
+		"product" : "B017GZJFV6",
+		"distance" : 23.5
+	},
+	{
+		"product" : "B00WHQGYCS",
+		"distance" : 23.5425
+	},
+	{
+		"product" : "B00110S21M",
+		"distance" : 23.5425
+	},
+	{
+		"product" : "B002A9JR8U",
+		"distance" : 23.5425
+	},
+	{
+		"product" : "B00WIJP48Y",
+		"distance" : 23.5637
+	},
+	{
+		"product" : "B00YOL1D9I",
+		"distance" : 23.5637
+	},
+	{
+		"product" : "B0028AFIRU",
+		"distance" : 23.5637
+	},
+	{
+		"product" : "B00PSFLL3M",
+		"distance" : 23.585
+	},
+	{
+		"product" : "B00SIN3G66",
+		"distance" : 23.6485
+	},
+	{
+		"product" : "B00141FB9E",
+		"distance" : 23.6907
+	},
+	{
+		"product" : "B00VT24J5U",
+		"distance" : 23.696
+	},
+	{
+		"product" : "B002616M1C",
+		"distance" : 23.7329
+	},
+	{
+		"product" : "B0061KU8W8",
+		"distance" : 23.775
+	},
+	{
+		"product" : "B01A624NIQ",
+		"distance" : 23.775
+	},
+	{
+		"product" : "B00YOL1D66",
+		"distance" : 23.796
+	},
+	{
+		"product" : "B000VBO0CM",
+		"distance" : 23.817
+	},
+	{
+		"product" : "B006IYRUUU",
+		"distance" : 23.859
+	},
+	{
+		"product" : "B003BT6HMW",
+		"distance" : 23.9217
+	},
+	{
+		"product" : "B014R3FO92",
+		"distance" : 23.9635
+	},
+	{
+		"product" : "B006HI60EY",
+		"distance" : 23.9687
+	},
+	{
+		"product" : "B00512SGEY",
+		"distance" : 23.9844
+	},
+	{
+		"product" : "B000P0R1KM",
+		"distance" : 23.9844
+	},
+	{
+		"product" : "B000C1UBQU",
+		"distance" : 24.0052
+	},
+	{
+		"product" : "B000YBIOAS",
+		"distance" : 24.0052
+	},
+	{
+		"product" : "B008XWXZ9U",
+		"distance" : 24.026
+	},
+	{
+		"product" : "B018BATJIO",
+		"distance" : 24.0468
+	},
+	{
+		"product" : "B01E9I43RO",
+		"distance" : 24.0468
+	},
+	{
+		"product" : "B01DWRRVMM",
+		"distance" : 24.0676
+	},
+	{
+		"product" : "B010RA65UG",
+		"distance" : 24.0676
+	},
+	{
+		"product" : "B00JRWV3LC",
+		"distance" : 24.0884
+	},
+	{
+		"product" : "B00MRVOQ78",
+		"distance" : 24.0884
+	},
+	{
+		"product" : "B00063M3EC",
+		"distance" : 24.1091
+	},
+	{
+		"product" : "B00M0V36MG",
+		"distance" : 24.1091
+	},
+	{
+		"product" : "B01ELWU4NU",
+		"distance" : 24.1091
+	},
+	{
+		"product" : "B00FNYVQ1A",
+		"distance" : 24.1506
+	},
+	{
+		"product" : "B00JR67T0M",
+		"distance" : 24.1506
+	},
+	{
+		"product" : "B019QSJMFU",
+		"distance" : 24.1713
+	},
+	{
+		"product" : "B017UMXLTM",
+		"distance" : 24.1713
+	},
+	{
+		"product" : "B004Q1OBNQ",
+		"distance" : 24.1919
+	},
+	{
+		"product" : "B004XTX0VA",
+		"distance" : 24.2126
+	},
+	{
+		"product" : "B013I5DGAO",
+		"distance" : 24.2539
+	},
+	{
+		"product" : "B00SH8YXTQ",
+		"distance" : 24.2745
+	},
+	{
+		"product" : "B000IOLCWI",
+		"distance" : 24.2745
+	},
+	{
+		"product" : "B01FB6G8GM",
+		"distance" : 24.2745
+	},
+	{
+		"product" : "B00WFH2VL2",
+		"distance" : 24.2951
+	},
+	{
+		"product" : "B00HR1JRTU",
+		"distance" : 24.3362
+	},
+	{
+		"product" : "B019FYF466",
+		"distance" : 24.3362
+	},
+	{
+		"product" : "B0163I1VN2",
+		"distance" : 24.3567
+	},
+	{
+		"product" : "B006XCUR5C",
+		"distance" : 24.3567
+	},
+	{
+		"product" : "B000V3IQGQ",
+		"distance" : 24.3772
+	},
+	{
+		"product" : "B00NM75BX4",
+		"distance" : 24.3772
+	},
+	{
+		"product" : "B01ALDX71E",
+		"distance" : 24.3772
+	},
+	{
+		"product" : "B00W5Z5GFM",
+		"distance" : 24.3977
+	},
+	{
+		"product" : "B00J228BC6",
+		"distance" : 24.4387
+	},
+	{
+		"product" : "B00ET2HPC6",
+		"distance" : 24.4387
+	},
+	{
+		"product" : "B00W4XMEXC",
+		"distance" : 24.4591
+	},
+	{
+		"product" : "B01G8UTM3Q",
+		"distance" : 24.4591
+	},
+	{
+		"product" : "B00M0V0CT6",
+		"distance" : 24.4591
+	},
+	{
+		"product" : "B01FTDAGZG",
+		"distance" : 24.5
+	},
+	{
+		"product" : "B015OVPG4E",
+		"distance" : 24.5204
+	},
+	{
+		"product" : "B00203Q9B4",
+		"distance" : 24.5204
+	},
+	{
+		"product" : "B00UKLKNJC",
+		"distance" : 24.5408
+	},
+	{
+		"product" : "B005COP4FA",
+		"distance" : 24.5408
+	},
+	{
+		"product" : "B001J3ISOM",
+		"distance" : 24.5408
+	},
+	{
+		"product" : "B013WZDAFQ",
+		"distance" : 24.5611
+	},
+	{
+		"product" : "B00TK133U4",
+		"distance" : 24.5815
+	},
+	{
+		"product" : "B00G1879TU",
+		"distance" : 24.6018
+	},
+	{
+		"product" : "B00JGWYOG4",
+		"distance" : 24.6018
+	},
+	{
+		"product" : "B00J5KDCO2",
+		"distance" : 24.6221
+	},
+	{
+		"product" : "B00SH8YWYW",
+		"distance" : 24.6424
+	},
+	{
+		"product" : "B01D0KHXGK",
+		"distance" : 24.683
+	},
+	{
+		"product" : "B00L9M27I6",
+		"distance" : 24.683
+	},
+	{
+		"product" : "B0058YKIA0",
+		"distance" : 24.7235
+	},
+	{
+		"product" : "B0001XDTYA",
+		"distance" : 24.7437
+	},
+	{
+		"product" : "B002DP8D36",
+		"distance" : 24.7437
+	}
+]}
